@@ -42,7 +42,7 @@ Python · NumPy · Matplotlib
 
 ## Referência
 
-Eraghi et al., *ICP-EKF-SLAM*, ICCIA 2023.
+Eraghi et al., artigo apresentado na ICCIA 2023, que propõe a correção do EKF-SLAM com ICP. Este repositório é uma reimplementação independente para estudo.
 
 ---
 
